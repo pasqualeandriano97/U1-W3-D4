@@ -1,0 +1,9 @@
+.numberDiv {
+  display: inline-block;
+
+  margin: 10px;
+}
+
+.marker {
+  background-color: blue;
+}
